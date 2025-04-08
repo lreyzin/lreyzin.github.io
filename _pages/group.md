@@ -20,7 +20,7 @@ in alphabetical order
 </td>
 <td width="70%">
 <h5><a href="https://www.idanattias.com/"><b>Idan Attias</b></a></h5>
-Postdoctoral Fellow at IDEAL, 2024 -- present (co-mentored with <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a>)<br>
+Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a>)<br>
 <i><a href="https://en.wikipedia.org/wiki/Computational_learning_theory">learning theory</a>, <a href="https://en.wikipedia.org/wiki/Data_based_decision_making">decision-making</a>, <a href="https://en.wikipedia.org/wiki/Game_theory">game theory</a>, <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">optimization</a>, <a href="https://en.wikipedia.org/wiki/Causal_inference">inference</a>, <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a></i>
 </td>
 </tr>
@@ -85,11 +85,11 @@ current position: Postdoctoral Researcher at the University of Maryland<br>
 <img src="/assets/img/saeid.png" height="150px" width="150px">
 </td>
 <td width="70%">
-<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
+<h5><a href="https://www.linkedin.com/in/saeed-hajizadeh-phd-61978254/"><b>Saeed Hajizadeh</b></a></h5>
 Ph.D. in Mathematics at UIC, 2023<br>
 <a href="/assets/pdf/Hajizadeh23_phd.pdf"><i>"Large-scale Minimax Optimization Problems"</i></a><br><br>
-current position: Visiting Faculty at Roosevelt University<br>
-(Roosevelt was Saeed's first employer after UIC.)
+current position: Assistant Vice President at Citigroup Quantatative Analytics<br>
+first position: Visiting Faculty at Roosevelt University
 </td>
 </tr>
 
@@ -116,7 +116,7 @@ first position: Postdoctoral Scholar at Stanford University in Medicine
 </td>
 <td width="70%">
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
-Research Assistant Professor (postdoc) at UIC, 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
+Research Assistant Professor (postdoc) at UIC, 2020 -- 2022 (co-hosted with <a href="http://willperkins.org/">Will Perkins</a>)<br>
 <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"><i>discrete mathematics</i></a>, <a href="https://en.wikipedia.org/wiki/Probability_theory"><i>probability theory</i></a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms"><i>analysis of algorithms</i></a>, <a href="https://en.wikipedia.org/wiki/Coding_theory"><i>coding theory</i></a>, <a href="https://en.wikipedia.org/wiki/Data_science"><i>data science</i></a><br><br>
 current position: Assistant Professor at York University in  Electr. Eng. and Comp. Sci.<br>
 (York University was Aditya's first employer after UIC.)
