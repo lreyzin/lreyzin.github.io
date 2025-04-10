@@ -23,6 +23,20 @@ Below you will find a brief summary of my education and some of the positions I 
 
 <h4>adademic experience</h4>
 <table width="100%">
+
+  <tr><th colspan="2"><h5>Institute for Data, Econometrics, Algorithms, and Learning</h5></th></tr>
+  <tr>
+    <td>
+    	  <img src="/assets/img/IDEAL.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" /><br>
+    </td>
+    <td>
+       <u>Instute Director</u>, 2024-present<br>
+       <b>Institute Site at UIC</b><br>
+       <u>Site Director</u>, 2022-present<br> <u>Director of Phase I Institute</u>, 2019-2022
+    </td>
+  </tr>
+
+
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
   <tr>
     <td>
@@ -37,17 +51,6 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
   </tr>
 
-  <tr><th colspan="2"><h5>Institute for Data, Econometrics, Algorithms, and Learning</h5></th></tr>
-  <tr>
-    <td>
-    	  <img src="/assets/img/IDEAL.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" /><br>
-    </td>
-    <td>
-       <u>Instute Director</u>, 2024-present<br>
-       <b>Institute Site at UIC</b><br>
-       <u>Site Director</u>, 2022-present<br> <u>Director of Phase I Institute</u>, 2019-2022
-    </td>
-  </tr>
 
   <tr><th colspan="2"><h5>Northwestern University</h5></th></tr>
   <tr>
