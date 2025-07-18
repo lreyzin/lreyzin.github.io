@@ -57,6 +57,16 @@ Ph.D. in Mathematics at UIC, in progress
 </td>
 </tr>
 
+<tr>
+<td>
+<img src="/assets/img/shuo.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><b>Shuo Wu</b></h5>
+Ph.D. in Electrical and Computer Engineering at UIC, in progress (co-advised with Shuo Han)
+</td>
+</tr>
+
 </table>
 <br>
 
