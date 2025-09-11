@@ -14,6 +14,19 @@ in alphabetical order
 
 <table cellpadding="8" width="100%">
 
+
+<tr>
+<td width="20%">
+<img src="/assets/img/ege.jpg" height="150px" width="150px" />
+</td>
+<td width="70%">
+<h5><a href="https://mscs.uic.edu/profiles/eakte/"><b>Ege Aktener</b></a></h5>
+Ph.D. in Mathematics at UIC, in progress
+</td>
+</tr>
+
+
+
 <tr>
 <td width="20%">
 <img src="/assets/img/idan.jpg" height="150px" width="150px">
@@ -24,6 +37,7 @@ Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://h
 <i><a href="https://en.wikipedia.org/wiki/Computational_learning_theory">learning theory</a>, <a href="https://en.wikipedia.org/wiki/Data_based_decision_making">decision-making</a>, <a href="https://en.wikipedia.org/wiki/Game_theory">game theory</a>, <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">optimization</a>, <a href="https://en.wikipedia.org/wiki/Causal_inference">inference</a>, <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a></i>
 </td>
 </tr>
+
 
 
 <tr>
@@ -166,7 +180,7 @@ first position: Applied Research Scientist at Lifion by ADP
 <h5><a href="https://ben.fish/"><b>Benjamin Fish</b></a></h5>
 Ph.D. in Mathematics at UIC, 2018<br>
 <a href="/assets/pdf/Fish18_phd.pdf"><i>"New Models and Algorithms for Data Analysis"</i></a><br><br>
-current position: Assistant Professor at the University of Michigan in Comp. Sci. and Eng.<br>
+current position: Adjunct Faculty at the University of Michigan in Comp. Sci. and Eng.<br>
 first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI Institute
 </td>
 </tr>
