@@ -33,7 +33,7 @@ Ph.D. in Mathematics at UIC, in progress
 </td>
 <td width="70%">
 <h5><a href="https://www.idanattias.com/"><b>Idan Attias</b></a></h5>
-Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a> and <a href="https://nati.ttic.edu/index.html">Nathan Srebro</a>)<br>
+Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a> & <a href="https://nati.ttic.edu/index.html">Nathan Srebro</a>)<br>
 <i><a href="https://en.wikipedia.org/wiki/Computational_learning_theory">learning theory</a>, <a href="https://en.wikipedia.org/wiki/Data_based_decision_making">decision-making</a>, <a href="https://en.wikipedia.org/wiki/Game_theory">game theory</a>, <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">optimization</a>, <a href="https://en.wikipedia.org/wiki/Causal_inference">inference</a>, <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a></i>
 </td>
 </tr>
