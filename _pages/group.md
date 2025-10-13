@@ -86,7 +86,7 @@ in reverse chronological order
 <td width="70%">
 <h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
 Ph.D. in Mathematics at UIC, 2025 (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)<br>
-<a href="/assets/pdf/Gao2025_phd.pdf"><i>"Learning From Structured and Semi-Random Inputs"</i></a>
+<a href="/assets/pdf/Gao25_phd.pdf"><i>"Learning From Structured and Semi-Random Inputs"</i></a>
 </td>
 </tr>
 
