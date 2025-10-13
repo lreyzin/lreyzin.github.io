@@ -52,16 +52,6 @@ Ph.D. in Mathematics at UIC, in progress
 
 
 <tr>
-<td width="20%">
-<img src="/assets/img/xing.jpg" height="150px" width="150px">
-</td>
-<td width="70%">
-<h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
-Ph.D. in Mathematics at UIC, in progress (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)
-</td>
-</tr>
-
-<tr>
 <td>
 <img src="/assets/img/duan.jpg" height="150px" width="150px">
 </td>
@@ -88,6 +78,18 @@ Ph.D. in Electrical and Computer Engineering at UIC, in progress (co-advised wit
 in reverse chronological order
 
 <table cellpadding="8" width="100%">
+
+<tr>
+<td width="20%">
+<img src="/assets/img/xing.jpg" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
+Ph.D. in Mathematics at UIC, 2025 (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)<br>
+<a href="/assets/pdf/Gao2025_phd.pdf"><i>"Learning From Structured and Semi-Random Inputs"</i></a>
+</td>
+</tr>
+
 
 <tr>
 <td width="20%">
