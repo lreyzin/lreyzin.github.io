@@ -84,7 +84,7 @@ in reverse chronological order
 <img src="/assets/img/xing.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
-<h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
+<h5><a href="https://xgao27.github.io/"><b>Xing Gao</b></a></h5>
 Ph.D. in Mathematics at UIC, 2025 (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)<br>
 <a href="/assets/pdf/Gao25_phd.pdf"><i>"Optimism and Robustness: Learning From Structured and Semi-Random Inputs"</i></a>
 </td>
