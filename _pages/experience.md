@@ -30,7 +30,7 @@ Below you will find a brief summary of my education and some of the positions I 
     	  <img src="/assets/img/IDEAL.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" /><br>
     </td>
     <td>
-       <u>Instute Director</u>, 2024-present<br>
+       <u>Instute Director/Co-Director</u>, 2024-present<br>
        <b>Institute Site at UIC</b><br>
        <u>Site Director</u>, 2022-present<br> <u>Director of Phase I Institute</u>, 2019-2022
     </td>

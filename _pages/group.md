@@ -208,7 +208,7 @@ first position: Postdoctoral Scholar at the University of Chicago in Medicine
 <h5><a href="https://research.google/people/adamlelkes/"><b>Ádám D. Lelkes</b></a></h5>
 Ph.D. in Mathematics at UIC, 2017 (co-advised with <a href="http://homepages.math.uic.edu/~gyt/">György Turán</a>)<br>
 <a href="/assets/pdf/Lelkes17_phd.pdf"><i>"Algorithms and Complexity Results for Big Data"</i></a><br><br>
-current position: Senior Research Scientist at Google DeepMind<br>
+current position: Staff Research Scientist at Google DeepMind<br>
 first position: Software Engineer at Google Research
 </td>
 </tr>
