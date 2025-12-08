@@ -129,7 +129,7 @@ first position: Visiting Faculty at Roosevelt University
 <h5><a href="https://www.linkedin.com/in/neshatmohammadi/"><b>Neshat Mohammadi</b></a></h5>
 Ph.D. in Computer Science at UIC, 2022 (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)<br>
 <a href="/assets/pdf/Mohammadi22_phd.pdf"><i>"Geometric Algorithms for Metric and Graph Learning"</i></a><br><br>
-current position: Researcher at Truveta<br>
+current position: Senior Applied Scientist at Fanatics<br>
 first position: Postdoctoral Scholar at Stanford University in Medicine
 </td>
 </tr>
@@ -144,8 +144,10 @@ first position: Postdoctoral Scholar at Stanford University in Medicine
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
 Research Assistant Professor (postdoc) at UIC, 2020 -- 2022 (co-hosted with <a href="http://willperkins.org/">Will Perkins</a>)<br>
 <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"><i>discrete mathematics</i></a>, <a href="https://en.wikipedia.org/wiki/Probability_theory"><i>probability theory</i></a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms"><i>analysis of algorithms</i></a>, <a href="https://en.wikipedia.org/wiki/Coding_theory"><i>coding theory</i></a>, <a href="https://en.wikipedia.org/wiki/Data_science"><i>data science</i></a><br><br>
-current position: Assistant Professor at York University in  Electr. Eng. and Comp. Sci.<br>
-(York University was Aditya's first employer after UIC.)
+
+current position: Research Group Leader at the Max Planck Institute SWS<br>
+first position: Assistant Professor at York University in  Electr. Eng. and Comp. Sci.
+
 </td>
 </tr>
 

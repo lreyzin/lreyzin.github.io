@@ -59,6 +59,7 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
     <td>
        <b>Department of Computer Science</b><br>
+       <u>Visiting Professor</u>, 2025-2026<br>
        <u>Visiting Associate Professor</u>, 2018-2019
     </td>
   </tr>
