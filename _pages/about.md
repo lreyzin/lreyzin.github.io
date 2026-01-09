@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Professor</b>, <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a> | <b>Institute Co-Director</b>, <a href="http://ideal-institute.org/">IDEAL Data Science Institute</a> <br>(Until Fall 2026 I am at <a href="https://www.northwestern.edu/">Northwestern</a> on sabbatical from UIC, serving as <b>Visiting Professor</b>, <a href="https://www.mccormick.northwestern.edu/computer-science/">Computer Science</a>)
+description: <b>Professor</b>, <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a> | <b>Institute Co-Director</b>, <a href="http://ideal-institute.org/">IDEAL Data Science Institute</a> <br>Note that until Fall 2026 I am at <a href="https://www.northwestern.edu/">Northwestern</a> on sabbatical leave as <b>Visiting Professor</b> of <a href="https://www.mccormick.northwestern.edu/computer-science/">Computer Science</a>.
 
 profile:
   align: right
