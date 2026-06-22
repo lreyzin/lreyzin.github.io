@@ -39,33 +39,11 @@ Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://h
 </tr>
 
 
-
 <tr>
 <td width="20%">
-<img src="/assets/img/bethany.jpg" height="150px" width="150px" />
-</td>
-<td width="70%">
-<h5><a href="https://sites.google.com/view/bethanyausthof/home"><b>Bethany Austhof</b></a></h5>
-Ph.D. in Mathematics at UIC, in progress 
-</td>
-</tr>
-
-
-<tr>
-<td>
-<img src="/assets/img/duan.jpg" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://duantu.github.io/"><b>Duan Tu</b></a></h5>
-Ph.D. in Mathematics at UIC, in progress
-</td>
-</tr>
-
-<tr>
-<td>
 <img src="/assets/img/shuo.jpg" height="150px" width="150px">
 </td>
-<td>
+<td width="70%">
 <h5><b>Shuo Wu</b></h5>
 Ph.D. in Electrical and Computer Engineering at UIC, in progress (co-advised with <a href="https://ece.uic.edu/profiles/shuo-han-phd/">Shuo Han</a>)
 </td>
@@ -81,12 +59,39 @@ in reverse chronological order
 
 <tr>
 <td width="20%">
+<img src="/assets/img/bethany.jpg" height="150px" width="150px" />
+</td>
+<td width="70%">
+<h5><a href="https://sites.google.com/view/bethanyausthof/home"><b>Bethany Austhof</b></a></h5>
+Ph.D. in Mathematics at UIC, 2026<br>
+<a href="/assets/pdf/Austhof26_phd.pdf"><i>"Learning Under Structured Uncertainty"</i></a><br><br>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<img src="/assets/img/duan.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><a href="https://duantu.github.io/"><b>Duan Tu</b></a></h5>
+Ph.D. in Mathematics at UIC, 2026<br>
+<a href="/assets/pdf/Tu26_phd.pdf"><i>"Resource-Efficient Methods for Data Analysis"</i></a><br><br>
+current position: Research Scientist at Meta<br>
+(Meta was Duan's first emplyer after UIC.)
+
+</td>
+</tr>
+
+
+<tr>
+<td width="20%">
 <img src="/assets/img/xing.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
 <h5><a href="https://xgao27.github.io/"><b>Xing Gao</b></a></h5>
 Ph.D. in Mathematics at UIC, 2025 (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)<br>
-<a href="/assets/pdf/Gao25_phd.pdf"><i>"Optimism and Robustness: Learning From Structured and Semi-Random Inputs"</i></a>
+<a href="/assets/pdf/Gao25_phd.pdf"><i>"Optimism and Robustness: Learning From Structured and Semi-Random Inputs"</i></a><br><br>
 </td>
 </tr>
 
