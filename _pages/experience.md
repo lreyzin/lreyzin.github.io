@@ -3,7 +3,8 @@ layout: page
 permalink: /cv/
 title: vita
 description: 
-nav: true
+nav: false
+published: false
 heading: vita
 ---
 
@@ -240,4 +241,3 @@ Below you will find a brief summary of my education and some of the positions I 
 </table>
 
 -->
-
