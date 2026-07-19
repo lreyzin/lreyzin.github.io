@@ -3,16 +3,22 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>{% if site.title == "blank" %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
-<meta name="description" content="{{ site.description }}">
+{% assign meta_description = page.meta_description | default: site.description | strip_html | normalize_whitespace %}
+<meta name="description" content="{{ meta_description | escape }}">
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
-<meta property="og:site_name" content="{{ site.description }}" />
-<meta property="og:type" content="object" />
-<meta property="og:title" content="{{ site.name }}" />
-<meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:description" content="{{ page.title }}" />
-<meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+{% assign og_title = site.first_name | append: ' ' | append: site.last_name %}
+{% if page.title and page.url != '/' %}{% assign og_title = og_title | append: ' | ' | append: page.title %}{% endif %}
+{% assign og_image = page.og_image | default: site.og_image %}
+<meta property="og:site_name" content="{{ site.first_name }} {{ site.last_name }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ og_title | escape }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:description" content="{{ meta_description | escape }}" />
+<meta property="og:image" content="{{ og_image | absolute_url }}" />
+<meta property="og:image:alt" content="Portrait of {{ site.first_name }} {{ site.last_name }}" />
+<meta name="twitter:card" content="summary" />
 {% endif %}
 
 <!-- Bootstrap & MDB -->
@@ -34,7 +40,7 @@
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- JQuery -->
 {% include scripts/jquery.html %}

@@ -6,7 +6,7 @@ description: <b>Professor</b>, <a href="https://mscs.uic.edu">Mathematics, Stati
 
 profile:
   align: right
-  image: lev.jpg
+  image: lev-optimized.jpg
   address: 
 
 news: false  # includes a list of news items

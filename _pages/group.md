@@ -17,7 +17,7 @@ in alphabetical order
 
 <tr>
 <td width="20%">
-<img src="/assets/img/ege.jpg" height="150px" width="150px" />
+<img src="/assets/img/ege.jpg" alt="Ege Aktener" height="150" width="150" loading="lazy" />
 </td>
 <td width="70%">
 <h5><a href="https://mscs.uic.edu/profiles/eakte/"><b>Ege Aktener</b></a></h5>
@@ -29,7 +29,7 @@ Ph.D. in Mathematics at UIC, in progress
 
 <tr>
 <td width="20%">
-<img src="/assets/img/idan.jpg" height="150px" width="150px">
+<img src="/assets/img/idan.jpg" alt="Idan Attias" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://www.idanattias.com/"><b>Idan Attias</b></a></h5>
@@ -41,7 +41,7 @@ Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://h
 
 <tr>
 <td width="20%">
-<img src="/assets/img/shuo.jpg" height="150px" width="150px">
+<img src="/assets/img/shuo.jpg" alt="Shuo Wu" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><b>Shuo Wu</b></h5>
@@ -59,7 +59,7 @@ in reverse chronological order
 
 <tr>
 <td width="20%">
-<img src="/assets/img/bethany.jpg" height="150px" width="150px" />
+<img src="/assets/img/bethany.jpg" alt="Bethany Austhof" height="150" width="150" loading="lazy" />
 </td>
 <td width="70%">
 <h5><a href="https://sites.google.com/view/bethanyausthof/home"><b>Bethany Austhof</b></a></h5>
@@ -71,14 +71,14 @@ Ph.D. in Mathematics at UIC, 2026<br>
 
 <tr>
 <td>
-<img src="/assets/img/duan.jpg" height="150px" width="150px">
+<img src="/assets/img/duan.jpg" alt="Duan Tu" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://duantu.github.io/"><b>Duan Tu</b></a></h5>
 Ph.D. in Mathematics at UIC, 2026<br>
 <a href="/assets/pdf/Tu26_phd.pdf"><i>"Resource-Efficient Methods for Data Analysis"</i></a><br><br>
 current position: Research Scientist at Meta<br>
-(Meta was Duan's first emplyer after UIC.)
+(Meta was Duan's first employer after UIC.)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ current position: Research Scientist at Meta<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/xing.jpg" height="150px" width="150px">
+<img src="/assets/img/xing.jpg" alt="Xing Gao" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://xgao27.github.io/"><b>Xing Gao</b></a></h5>
@@ -98,14 +98,14 @@ Ph.D. in Mathematics at UIC, 2025 (co-advised with <a href="https://cs.brown.edu
 
 <tr>
 <td width="20%">
-<img src="/assets/img/jake.jpg" height="150px" width="150px">
+<img src="/assets/img/jake.jpg" alt="Thomas Jacob Maranzatto" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://terpconnect.umd.edu/~tmaran/"><b>Thomas Jacob Maranzatto</b></a></h5>
 Ph.D. in Mathematics at UIC, 2024<br>
 <a href="/assets/pdf/Maranzatto24_phd.pdf"><i>"Combinatorial Methods for Learning and Information Theory"</i></a><br><br>
 current position: Postdoctoral Researcher at the University of Maryland<br>
-(Maryland was Jake's first emplyer after UIC.)
+(Maryland was Jake's first employer after UIC.)
 </td>
 </tr>
 
@@ -113,13 +113,13 @@ current position: Postdoctoral Researcher at the University of Maryland<br>
 
 <tr>
 <td width="20%">
-<img src="/assets/img/saeid.png" height="150px" width="150px">
+<img src="/assets/img/saeid.png" alt="Saeed Hajizadeh" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://www.linkedin.com/in/saeed-hajizadeh-phd-61978254/"><b>Saeed Hajizadeh</b></a></h5>
 Ph.D. in Mathematics at UIC, 2023<br>
 <a href="/assets/pdf/Hajizadeh23_phd.pdf"><i>"Large-scale Minimax Optimization Problems"</i></a><br><br>
-current position: Assistant Vice President at Citigroup Quantatative Analytics<br>
+current position: Assistant Vice President at Citigroup Quantitative Analytics<br>
 first position: Visiting Faculty at Roosevelt University
 </td>
 </tr>
@@ -128,7 +128,7 @@ first position: Visiting Faculty at Roosevelt University
 
 <tr>
 <td width="20%">
-<img src="/assets/img/neshat.jpg" height="150px" width="150px">
+<img src="/assets/img/neshat.jpg" alt="Neshat Mohammadi" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://www.linkedin.com/in/neshatmohammadi/"><b>Neshat Mohammadi</b></a></h5>
@@ -143,7 +143,7 @@ first position: Postdoctoral Scholar at Stanford University in Medicine
 
 <tr>
 <td width="20%">
-<img src="/assets/img/aditya.jpg" height="150px" width="150px">
+<img src="/assets/img/aditya.jpg" alt="Aditya Potukuchi" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
@@ -158,7 +158,7 @@ first position: Assistant Professor at York University in  Electr. Eng. and Comp
 
 <tr>
 <td>
-<img src="/assets/img/shelby.jpg" height="150px" width="150px">
+<img src="/assets/img/shelby.jpg" alt="Shelby Heinecke" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://www.shelbyh.ai/"><b>Shelby Heinecke</b></a></h5>
@@ -170,7 +170,7 @@ current position: Director of AI Research at Salesforce<br>(Salesforce was Shelb
 
 <tr>
 <td>
-<img src="/assets/img/mano.jpg" height="150px" width="150px">
+<img src="/assets/img/mano.jpg" alt="Mano Vikash Janardhanan" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://www.manovikash.com/"><b>Mano Vikash Janardhanan</b></a></h5>
@@ -183,7 +183,7 @@ first position: Applied Research Scientist at Lifion by ADP
 
 <tr>
 <td>
-<img src="/assets/img/ben.jpg" height="150px" width="150px">
+<img src="/assets/img/ben.jpg" alt="Benjamin Fish" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://ben.fish/"><b>Benjamin Fish</b></a></h5>
@@ -196,7 +196,7 @@ first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI 
 
 <tr>
 <td>
-<img src="/assets/img/yi.jpg" height="150px" width="150px">
+<img src="/assets/img/yi.jpg" alt="Yi Huang" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://pphuangyi.github.io/"><b>Yi Huang</b></a></h5>
@@ -209,7 +209,7 @@ first position: Postdoctoral Scholar at the University of Chicago in Medicine
 
 <tr>
 <td>
-<img src="/assets/img/adam.jpg" height="150px" width="150px">
+<img src="/assets/img/adam.jpg" alt="Ádám D. Lelkes" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://research.google/people/adamlelkes/"><b>Ádám D. Lelkes</b></a></h5>
@@ -222,7 +222,7 @@ first position: Software Engineer at Google Research
 
 <tr>
 <td>
-<img src="/assets/img/li.jpg" height="150px" width="150px">
+<img src="/assets/img/li.jpg" alt="Li Wang" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://blog.uta.edu/wangl3/"><b>Li Wang</b></a></h5>
@@ -235,7 +235,7 @@ current position: Associate Professor at University of Texas at Arlington in Mat
 
 <tr>
 <td>
-<img src="/assets/img/jeremy.jpg" height="150px" width="150px">
+<img src="/assets/img/jeremy.jpg" alt="Jeremy Kun" height="150" width="150" loading="lazy">
 </td>
 <td>
 <h5><a href="https://jeremykun.com/"><b>Jeremy Kun</b></a></h5>

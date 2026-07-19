@@ -14,7 +14,7 @@ My work email address is <a href="mailto:lreyzin@uic.edu">lreyzin@uic.edu</a>.<b
 <b>Q</b>: <i>You have an appointment in MSCS, but what is MSCS?
 Are you in a "combined" math and cs department?</i><br>
 <b>A</b>:  <a href="http://mscs.uic.edu">MSCS</a> stands for "Mathematics, Statistics, and Computer Science," but it's basically
-a broad a math department that also includes some faculty in statistics and mathematical aspects of
+a broad math department that also includes some faculty in statistics and mathematical aspects of
 computer science,
 and we often just refer to it as "math."
 It's also not really a combined department because there's a full-fledged
@@ -49,7 +49,7 @@ When I do have funding to hire RAs, it is reserved for my advisees.
 <br>
 
 <b>Q</b>:
-<i>I am interested working with you as a postdoc. Will you consider my application to join your group?</i><br>
+<i>I am interested in working with you as a postdoc. Will you consider my application to join your group?</i><br>
 <b>A</b>: Unless I have an announcement on my site that I am looking for postdocs, or you
 heard some other way that I am hiring, then no.
 The MSCS department, however, does occasionally <a href="https://mscs.uic.edu/about/employment/">hire</a> postdoctoral RAPs (Research Assistant Professors),
@@ -101,7 +101,7 @@ come work with you for a summer (or semester)?</i><br>
 that I'm interested in and have another source of funding, feel free to email me.<br>
 
 <b>Q</b>: <i>I am a local high school student. Can I come and do research with you to gain research
-expereicne? I don't need funding, and I'd be happy to help you any way.</i><br>
+experience? I don't need funding, and I'd be happy to help you any way.</i><br>
 <b>A</b>: The research that I work on is theoretical, which means you usually need to know a lot
 more than programming and calculus to start working with me -- this is beyond the experience of most
 high school students.  I would consider working with a high school student
@@ -112,4 +112,3 @@ in practice I end up turning down the vast majority of students, even those who 
 
 <b>Q</b>: <i>How is your last name pronounced?</i><br>
 <b>A</b>: Though my last name likely stems from a <a href="https://en.wikipedia.org/wiki/Rose">thorny flower</a>, it is pronounced like a <a href="https://en.wikipedia.org/wiki/Raisin">dried grape</a>.
-
