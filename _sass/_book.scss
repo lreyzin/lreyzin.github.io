@@ -88,9 +88,9 @@
 }
 
 .book-preorder {
-  background: var(--book-navy);
+  background: #fff;
   border: 2px solid var(--book-navy);
-  color: #fff !important;
+  color: var(--book-navy) !important;
   display: inline-block;
   font-size: 1rem;
   font-weight: 500;
