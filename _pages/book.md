@@ -4,7 +4,9 @@ permalink: /book/
 title: book
 nav: false
 heading: Making Sense of Modern Science
-description: A Tour for the Curious
+description: >-
+  <span class="book-subtitle">A Tour for the Curious</span>
+  <span class="book-author">by Lev Reyzin</span>
 meta_description: Making Sense of Modern Science by Lev Reyzin, a tour of modern scientific ideas for curious readers.
 og_image: /assets/img/making-sense-modern-science-cover.jpg
 og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
@@ -27,13 +29,23 @@ og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
       </figcaption>
     </figure>
 
-    <a
-      class="book-preorder"
-      href="https://www.amazon.com/Making-Sense-Modern-Science-Curious/dp/1009711199"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Preorder Making Sense of Modern Science on Amazon"
-    >Preorder on Amazon</a>
+    <div class="book-actions" aria-label="Book ordering options">
+      <a
+        class="book-preorder"
+        href="https://www.amazon.com/Making-Sense-Modern-Science-Curious/dp/1009711199"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Preorder Making Sense of Modern Science on Amazon"
+      >Preorder on Amazon</a>
+
+      <a
+        class="book-preorder book-preorder-secondary"
+        href="https://www.cambridge.org/core/books/making-sense-of-modern-science/A8467DF5BE3770CF22C4AAF9796BD3DD"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Order Making Sense of Modern Science from Cambridge University Press"
+      >Order from Cambridge University Press</a>
+    </div>
   </section>
 
   <section class="book-praise" aria-labelledby="book-praise-heading">

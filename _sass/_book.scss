@@ -2,10 +2,45 @@
  * Book page
  ******************************************************************************/
 
-.book-page {
+.page-book {
   --book-navy: #071b3f;
   --book-blue: #164d9b;
   --book-pale-blue: #f2f6fc;
+}
+
+.page-book .post-header {
+  text-align: center;
+}
+
+.page-book .post-title {
+  color: var(--book-navy);
+}
+
+.page-book .post-description {
+  font-family: "Roboto Slab", serif;
+  margin-bottom: 1rem;
+}
+
+.book-subtitle {
+  color: var(--book-navy);
+  display: block;
+  font-size: 1.5rem;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.book-author {
+  color: var(--global-text-color);
+  display: block;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  margin-top: 0.55rem;
+}
+
+.book-page {
   margin-top: 1rem;
 }
 
@@ -44,6 +79,14 @@
   margin-top: 1rem;
 }
 
+.book-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+  margin-top: 1.75rem;
+}
+
 .book-preorder {
   background: var(--book-navy);
   border: 2px solid var(--book-navy);
@@ -52,7 +95,6 @@
   font-size: 1rem;
   font-weight: 500;
   letter-spacing: 0.02em;
-  margin-top: 1.75rem;
   padding: 0.8rem 1.45rem;
   transition: background-color 0.18s ease, border-color 0.18s ease;
 }
@@ -68,6 +110,17 @@
 .book-preorder:focus-visible {
   outline: 3px solid rgba(22, 77, 155, 0.35);
   outline-offset: 3px;
+}
+
+.book-preorder-secondary {
+  background: #fff;
+  color: var(--book-navy) !important;
+}
+
+.book-preorder-secondary:hover,
+.book-preorder-secondary:focus {
+  background: var(--book-blue);
+  color: #fff !important;
 }
 
 .book-praise {
@@ -147,5 +200,22 @@
 
   .book-blurb {
     padding: 1.4rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .book-subtitle {
+    font-size: 1.35rem;
+  }
+
+  .book-actions {
+    align-items: stretch;
+    flex-direction: column;
+    max-width: 340px;
+    width: 100%;
+  }
+
+  .book-preorder {
+    width: 100%;
   }
 }
