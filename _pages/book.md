@@ -35,16 +35,24 @@ og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
         href="https://www.amazon.com/Making-Sense-Modern-Science-Curious/dp/1009711199"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Preorder Making Sense of Modern Science on Amazon"
-      >Preorder on Amazon</a>
+        aria-label="Preorder Making Sense of Modern Science from Amazon"
+      >Preorder from Amazon</a>
 
       <a
         class="book-preorder book-preorder-secondary"
         href="https://www.cambridge.org/core/books/making-sense-of-modern-science/A8467DF5BE3770CF22C4AAF9796BD3DD"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Order Making Sense of Modern Science from Cambridge University Press"
-      >Order from Cambridge University Press</a>
+        aria-label="Preorder Making Sense of Modern Science from Cambridge University Press"
+      >Preorder from Cambridge University Press</a>
+
+      <a
+        class="book-preorder book-preorder-secondary"
+        href="https://www.barnesandnoble.com/w/making-sense-of-modern-science-lev-reyzin/1149958163?ean=9781009711197"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Preorder Making Sense of Modern Science from Barnes &amp; Noble"
+      >Preorder from Barnes &amp; Noble</a>
     </div>
   </section>
 
