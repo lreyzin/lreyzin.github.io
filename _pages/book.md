@@ -1,0 +1,60 @@
+---
+layout: page
+permalink: /book/
+title: book
+nav: false
+heading: Making Sense of Modern Science
+description: A Tour for the Curious
+meta_description: Making Sense of Modern Science by Lev Reyzin, a tour of modern scientific ideas for curious readers.
+og_image: /assets/img/making-sense-modern-science-cover.jpg
+og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
+---
+
+<div class="book-page">
+  <section class="book-hero" aria-label="Book cover and preorder information">
+    <figure class="book-cover-figure">
+      <div class="book-cover-frame">
+        <img
+          class="book-cover"
+          src="{{ '/assets/img/making-sense-modern-science-cover.jpg' | relative_url }}"
+          alt="Cover of Making Sense of Modern Science: A Tour for the Curious by Lev Reyzin"
+          width="422"
+          height="648"
+        >
+      </div>
+      <figcaption class="book-cover-credit">
+        Cover illustrated by <a href="https://kalaolga.cargo.site/" target="_blank" rel="noopener noreferrer">Olga Kalantarov Hautin</a>
+      </figcaption>
+    </figure>
+
+    <a
+      class="book-preorder"
+      href="https://www.amazon.com/Making-Sense-Modern-Science-Curious/dp/1009711199"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Preorder Making Sense of Modern Science on Amazon"
+    >Preorder on Amazon</a>
+  </section>
+
+  <section class="book-praise" aria-labelledby="book-praise-heading">
+    <h2 id="book-praise-heading" class="book-praise-heading">Advance praise</h2>
+
+    <div class="book-blurbs">
+      <blockquote class="book-blurb">
+        <p>“Lev Reyzin takes readers on a whirlwind tour of a few fascinating topics in modern science. Anyone interested in science not professionally, but as a crucial branch of human culture, will find something engaging and thought-provoking in this book.”</p>
+        <footer>
+          <cite>Mario Livio</cite>
+          <span>Astrophysicist; author of <i>The Golden Ratio</i> and <i>Is God A Mathematician?</i></span>
+        </footer>
+      </blockquote>
+
+      <blockquote class="book-blurb">
+        <p>“You would not expect to sit down to a bite-sized book of 120 pages and come away with a coherent understanding of game theory, plate tectonics, quantum mechanics, and neural nets. Prepare to be agreeably surprised by Lev Reyzin’s <i>Making Sense of Modern Science</i>, a remarkable feat of clear, concise scientific erudition.”</p>
+        <footer>
+          <cite>Jordan Ellenberg</cite>
+          <span>University of Wisconsin; author of <i>How Not to Be Wrong</i> and <i>Shape</i></span>
+        </footer>
+      </blockquote>
+    </div>
+  </section>
+</div>

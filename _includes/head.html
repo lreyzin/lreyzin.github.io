@@ -11,13 +11,14 @@
 {% assign og_title = site.first_name | append: ' ' | append: site.last_name %}
 {% if page.title and page.url != '/' %}{% assign og_title = og_title | append: ' | ' | append: page.title %}{% endif %}
 {% assign og_image = page.og_image | default: site.og_image %}
+{% assign og_image_alt = page.og_image_alt | default: 'Portrait of Lev Reyzin' %}
 <meta property="og:site_name" content="{{ site.first_name }} {{ site.last_name }}" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{{ og_title | escape }}" />
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:description" content="{{ meta_description | escape }}" />
 <meta property="og:image" content="{{ og_image | absolute_url }}" />
-<meta property="og:image:alt" content="Portrait of {{ site.first_name }} {{ site.last_name }}" />
+<meta property="og:image:alt" content="{{ og_image_alt | escape }}" />
 <meta name="twitter:card" content="summary" />
 {% endif %}
 
