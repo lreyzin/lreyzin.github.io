@@ -29,6 +29,14 @@ og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
       </figcaption>
     </figure>
 
+    <blockquote
+      class="book-description"
+      cite="https://www.cambridge.org/core/books/making-sense-of-modern-science/A8467DF5BE3770CF22C4AAF9796BD3DD"
+    >
+      <p>“Einstein’s theory of relativity, the butterfly effect, deep learning, game theory. If you’ve heard these buzzwords but are a bit fuzzy on the details, then this book is for you. Professor Lev Reyzin will take you on a fascinating whirlwind tour of the science behind these concepts, answering your burning questions about Pangea, DNA, and what exactly is quantum computing. Using clear language and emphasizing big ideas over technical details, this book shows that science can be enjoyed by everyone. Each chapter explores a different foundational scientific idea, ending with a brief history of the topic, further reading, and more technical details for the mathematically inclined reader. Much of science is developed through curiosity about the world around us, and this book will help feed that curiosity in you.”</p>
+      <footer>— <cite><a href="https://www.cambridge.org/core/books/making-sense-of-modern-science/A8467DF5BE3770CF22C4AAF9796BD3DD" target="_blank" rel="noopener noreferrer">Cambridge University Press</a></cite></footer>
+    </blockquote>
+
     <div class="book-actions" aria-label="Book ordering options">
       <a
         class="book-preorder"
