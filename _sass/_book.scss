@@ -56,13 +56,19 @@
   margin: 0;
 }
 
-.book-cover-frame {
+.book-feature {
   background: #eaf0fa;
   border: 1px solid #d7e0ef;
   box-shadow: 0 24px 55px rgba(7, 27, 63, 0.16);
   margin: 0 auto;
+  max-width: 700px;
+  padding: 1.5rem;
+  width: 100%;
+}
+
+.book-cover-frame {
+  margin: 0 auto;
   max-width: 390px;
-  padding: 16px;
   width: 100%;
 }
 
@@ -80,12 +86,9 @@
 }
 
 .book-description {
-  background: var(--book-pale-blue);
-  border-left: 4px solid var(--book-blue);
-  box-shadow: 0 10px 26px rgba(7, 27, 63, 0.08);
-  margin: 2.25rem auto 0;
-  max-width: 700px;
-  padding: 1.5rem 1.75rem;
+  border-top: 1px solid #cad7ea;
+  margin: 1.75rem 0 0;
+  padding: 1.5rem 0 0;
   text-align: left;
 }
 
@@ -208,7 +211,6 @@
 
   .book-cover-frame {
     max-width: 340px;
-    padding: 10px;
   }
 
   .book-blurbs {
@@ -233,7 +235,11 @@
   }
 
   .book-description {
-    padding: 1.3rem;
+    padding-top: 1.3rem;
+  }
+
+  .book-feature {
+    padding: 10px 10px 1.3rem;
   }
 
   .book-preorder {
