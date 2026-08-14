@@ -79,7 +79,7 @@ og_image_alt: Cover of Making Sense of Modern Science by Lev Reyzin
       </blockquote>
 
       <blockquote class="book-blurb">
-        <p>“You would not expect to sit down to a bite-sized book of 120 pages and come away with a coherent understanding of game theory, plate tectonics, quantum mechanics, and neural nets. Prepare to be agreeably surprised by Lev Reyzin’s <i>Making Sense of Modern Science</i>, a remarkable feat of clear, concise scientific erudition.”</p>
+        <p>“You would not expect to sit down to a bite-sized book of 185 pages and come away with a coherent understanding of game theory, plate tectonics, quantum mechanics, and neural nets. Prepare to be agreeably surprised by Lev Reyzin’s <i>Making Sense of Modern Science</i>, a remarkable feat of clear, concise scientific erudition.”</p>
         <footer>
           <cite>Jordan Ellenberg</cite>
           <span>University of Wisconsin; author of <i>How Not to Be Wrong</i> and <i>Shape</i></span>
