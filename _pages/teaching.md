@@ -9,8 +9,7 @@ heading: teaching
 ---
 
 Below are listed all the courses that I have taught as the primary instructor (or co-instructor), with
-links to their respective websites. Please note that I do not use <a href="https://uic.blackboard.com/"><strike>Blackboard</strike></a> and have disabled
-it for all my courses.
+links to their respective websites. 
 
 <div class="publications">
 
