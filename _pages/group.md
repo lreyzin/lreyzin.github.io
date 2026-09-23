@@ -41,6 +41,16 @@ Postdoctoral Fellow at IDEAL, 2024 -- present (co-hosted with <a href="https://h
 
 <tr>
 <td width="20%">
+<img src="/assets/img/shyam.jpg" alt="Shyam Ravichandran" height="150" width="150" loading="lazy" />
+</td>
+<td width="70%">
+<h5><b><a href="https://homepages.math.uic.edu/~shyam/">Shyam Ravichandran</a></b></h5>
+Ph.D. in Mathematics at UIC, in progress (co-advised with <a href="https://jainvishesh.github.io/">Vishesh Jain</a>)
+</td>
+</tr>
+
+<tr>
+<td width="20%">
 <img src="/assets/img/shuo.jpg" alt="Shuo Wu" height="150" width="150" loading="lazy">
 </td>
 <td width="70%">
