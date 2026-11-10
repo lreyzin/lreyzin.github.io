@@ -186,7 +186,7 @@ current position: Director of AI Research at Salesforce<br>(Salesforce was Shelb
 <h5><a href="https://www.manovikash.com/"><b>Mano Vikash Janardhanan</b></a></h5>
 Ph.D. in Mathematics at UIC, 2019<br>
 <a href="/assets/pdf/Janardhanan19_phd.pdf"><i>"Algorithms for Learning Networks and Learning from Networks"</i></a><br><br>
-current position: Quantitative Researcher in Balyasny Asset Management<br>
+current position: Principal ML Engineer at Equinix<br>
 first position: Applied Research Scientist at Lifion by ADP
 </td>
 </tr>
