@@ -15,11 +15,11 @@ social: false # includes social icons at the bottom of the page
 socialcontact: true  # includes social icons under photo
 ---
 
-<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science
-at the University of Illinois Chicago and Co-Director of the IDEAL Institute.
-He works on the theory of machine learning, data science, and artificial intelligence.
+<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, & Computer Science
+at the University of Illinois Chicago and Co-Director of IDEAL, a data science institute comprised of over 70 researchers across 6 institutions.
+He works on theoretical CS, machine learning, and AI.
 Prior to UIC, Reyzin was a Simons Postdoctoral Fellow at Georgia Tech and an
-NSF Computing Innovation Fellow at Yahoo! Research. Reyzin received his Ph.D. on an NSF doctoral fellowship from Yale under Dana Angluin and his bachelor's degree from Princeton.
+NSF CI Fellow at Yahoo! Research. Reyzin received his Ph.D. on an NSF fellowship from Yale under Dana Angluin and his bachelor's degree from Princeton.
 He is currently the Chair of the Steering Committee for the ALT conference and the Editor-in-Chief of <i>Mathematics of Data, Learning, and Intelligence</i>.
 He has also served as a General Chair for FOCS 2024, the Program Chair for ISAIM 2020, and a Program Chair for ALT 2017. His work has earned awards at ICML, COLT, and AISTATS and has received extensive funding.<sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
